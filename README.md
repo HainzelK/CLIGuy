@@ -61,11 +61,3 @@
 - `os` and `shutil` modules (standard libraries)
 
 ---
-
-
-## License
-This project is free to use and modify for educational and personal purposes. Contributions and improvements are welcome!
-
----
-
-Enjoy using **CLIGuy**!
